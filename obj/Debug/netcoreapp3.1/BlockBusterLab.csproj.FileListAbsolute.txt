@@ -1,0 +1,14 @@
+C:\Users\YKunnummal\source\repos\BlockBusterLab\bin\Debug\netcoreapp3.1\BlockBusterLab.exe
+C:\Users\YKunnummal\source\repos\BlockBusterLab\bin\Debug\netcoreapp3.1\BlockBusterLab.deps.json
+C:\Users\YKunnummal\source\repos\BlockBusterLab\bin\Debug\netcoreapp3.1\BlockBusterLab.runtimeconfig.json
+C:\Users\YKunnummal\source\repos\BlockBusterLab\bin\Debug\netcoreapp3.1\BlockBusterLab.runtimeconfig.dev.json
+C:\Users\YKunnummal\source\repos\BlockBusterLab\bin\Debug\netcoreapp3.1\BlockBusterLab.dll
+C:\Users\YKunnummal\source\repos\BlockBusterLab\bin\Debug\netcoreapp3.1\BlockBusterLab.pdb
+C:\Users\YKunnummal\source\repos\BlockBusterLab\obj\Debug\netcoreapp3.1\BlockBusterLab.csproj.AssemblyReference.cache
+C:\Users\YKunnummal\source\repos\BlockBusterLab\obj\Debug\netcoreapp3.1\BlockBusterLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YKunnummal\source\repos\BlockBusterLab\obj\Debug\netcoreapp3.1\BlockBusterLab.AssemblyInfoInputs.cache
+C:\Users\YKunnummal\source\repos\BlockBusterLab\obj\Debug\netcoreapp3.1\BlockBusterLab.AssemblyInfo.cs
+C:\Users\YKunnummal\source\repos\BlockBusterLab\obj\Debug\netcoreapp3.1\BlockBusterLab.csproj.CoreCompileInputs.cache
+C:\Users\YKunnummal\source\repos\BlockBusterLab\obj\Debug\netcoreapp3.1\BlockBusterLab.dll
+C:\Users\YKunnummal\source\repos\BlockBusterLab\obj\Debug\netcoreapp3.1\BlockBusterLab.pdb
+C:\Users\YKunnummal\source\repos\BlockBusterLab\obj\Debug\netcoreapp3.1\BlockBusterLab.genruntimeconfig.cache
